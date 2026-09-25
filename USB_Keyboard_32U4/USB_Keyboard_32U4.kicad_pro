@@ -679,7 +679,7 @@
         "uuid": "4607dd75-eb5a-435b-91aa-bd9b00f91997"
       }
     ],
-    "used_designators": "U1,R1-6,J1,Y1,#PWR1,D1-2",
+    "used_designators": "R1-6,Y1,U1,J1,#PWR1,D1-2",
     "variants": []
   },
   "sheets": [
