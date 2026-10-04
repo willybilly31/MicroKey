@@ -1,10 +1,10 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-D1,0805,1,RED,
-D2,0805,1,BLUE,
-J1,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,USB_C_Receptacle_USB2.0_16P,
-J2,PinHeader_2x03_P2.54mm_Vertical,1,Conn_02x03_Odd_Even,
-"R1, R2",0805,2,5.1k,
-"R3, R4",0805,2,22,
-"R5, R6, R7",0805,3,1k,
-U1,TQFP-44_10x10mm_P0.8mm,1,ATmega32U4-A,
-Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,16mhz,
+Designator,Footprint,Quantity,Value,LCSC Part #,Minimum Price,LCSC Link
+D1,0805,1,RED,C2295,0.58$,https://www.lcsc.com/product-detail/C2295.html
+D2,0805,1,BLUE,C2293,0.62$,https://www.lcsc.com/product-detail/C2293.html
+J1,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,USB_C_Receptacle_USB2.0_16P,C3020560,1.31$,https://www.lcsc.com/product-detail/C3020560.html
+J2,PinHeader_2x03_P2.54mm_Vertical,1,Conn_02x03_Odd_Even,C5116479,0.60$,https://www.lcsc.com/product-detail/C5116479.html
+"R1, R2",0805,2,5.1k,C27834,0.56$,https://www.lcsc.com/product-detail/C27834.html
+"R3, R4",0805,2,22,C17561,0.46$,https://www.lcsc.com/product-detail/C17561.html
+"R5, R6, R7",0805,3,1k,C17513,0.41$,https://www.lcsc.com/product-detail/C17513.html
+U1,TQFP-44_10x10mm_P0.8mm,1,ATmega32U4-A,C44854,6.94$,https://www.lcsc.com/product-detail/C44854.html
+Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,16mhz,C70562,0.55$,https://www.lcsc.com/product-detail/C70562.html
