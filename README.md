@@ -27,6 +27,7 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
       <th>Value</th>
       <th>LCSC Part #</th>
       <th>Minimum Price</th>
+      <th>LCSC Link</th>
     </tr>
   </thead>
   <tbody>
@@ -37,6 +38,7 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
       <td>RED</td>
       <td>C2295</td>
       <td>0.58$</td>
+      <td><a href="https://www.lcsc.com/product-detail/C2295.html">C2295</a></td>
     </tr>
     <tr>
       <td>D2</td>
@@ -45,6 +47,7 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
       <td>BLUE</td>
       <td>C2293</td>
       <td>0.62$</td>
+      <td><a href="https://www.lcsc.com/product-detail/C2293.html">C2293</a></td>
     </tr>
     <tr>
       <td>J1</td>
@@ -53,6 +56,7 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
       <td>USB_C_Receptacle_USB2.0_16P</td>
       <td>C3020560</td>
       <td>1.31$</td>
+      <td><a href="https://www.lcsc.com/product-detail/C3020560.html">C3020560</a></td>
     </tr>
     <tr>
       <td>J2</td>
@@ -61,6 +65,7 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
       <td>Conn_02x03_Odd_Even</td>
       <td>C5116479</td>
       <td>0.60$</td>
+      <td><a href="https://www.lcsc.com/product-detail/C5116479.html">C5116479</a></td>
     </tr>
     <tr>
       <td>R1, R2</td>
@@ -69,6 +74,7 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
       <td>5.1k</td>
       <td>C27834</td>
       <td>0.56$</td>
+      <td><a href="https://www.lcsc.com/product-detail/C27834.html">C27834</a></td>
     </tr>
     <tr>
       <td>R3, R4</td>
@@ -77,6 +83,7 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
       <td>22</td>
       <td>C17561</td>
       <td>0.46$</td>
+      <td><a href="https://www.lcsc.com/product-detail/C17561.html">C17561</a></td>
     </tr>
     <tr>
       <td>R5, R6, R7</td>
@@ -85,6 +92,7 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
       <td>1k</td>
       <td>C17513</td>
       <td>0.41$</td>
+      <td><a href="https://www.lcsc.com/product-detail/C17513.html">C17513</a></td>
     </tr>
     <tr>
       <td>U1</td>
@@ -93,6 +101,7 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
       <td>ATmega32U4-A</td>
       <td>C44854</td>
       <td>6.94$</td>
+      <td><a href="https://www.lcsc.com/product-detail/C44854.html">C44854</a></td>
     </tr>
     <tr>
       <td>Y1</td>
@@ -101,6 +110,7 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
       <td>16mhz</td>
       <td>C70562</td>
       <td>0.55$</td>
+      <td><a href="https://www.lcsc.com/product-detail/C70562.html">C70562</a></td>
     </tr>
   </tbody>
 </table>
