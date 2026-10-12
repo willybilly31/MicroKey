@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "2x3 Pads") (type "KiCad") (uri "${KIPRJMOD}/2x3 Pads.pretty") (options "") (descr ""))
+)
