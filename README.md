@@ -14,8 +14,8 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
 - User input light
 
 ## Screenshots
-<img width="1070" height="828" alt="image" src="https://github.com/user-attachments/assets/22445e1e-da64-4234-ac21-65aa100e095a" />
-<img width="1133" height="828" alt="image" src="https://github.com/user-attachments/assets/441bcd1e-0bcd-4bbe-9117-377fcea1ce32" />
+<img width="400" height="" alt="image" src="https://github.com/user-attachments/assets/8937f32b-8cab-42db-bf8b-957710ce60cd" /> <img width="400" height="" alt="image" src="https://github.com/user-attachments/assets/b14e7902-8f1f-4ab5-bcbf-9a17d45cb079" />
+
 
 
 ## BOM 
