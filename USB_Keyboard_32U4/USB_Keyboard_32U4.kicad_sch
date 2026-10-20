@@ -4230,7 +4230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+		(property "Footprint" "MicroKey_Local:USB4105_JLC_0p20mm_NPTH_Clearance"
 			(at 74.93 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -6961,7 +6961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2x3 Pads:MicroKey_AVR_ISP_2x3_SMD"
+		(property "Footprint" "MicroKey_Local:AVR_ISP_2x3_Pogo_3p23x1p80"
 			(at 218.44 90.17 0)
 			(hide yes)
 			(show_name no)

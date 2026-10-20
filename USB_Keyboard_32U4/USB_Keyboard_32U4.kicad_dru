@@ -1,0 +1,8 @@
+(version 1)
+
+# 0.20 mm tracks with 0.15 mm minimum clearance on the ISP PB2 escape.
+# This exceeds JLCPCB's 0.10 mm minimum for standard 1 oz two-layer boards.
+(rule "ISP PB2 escape clearance"
+    (condition "A.NetName == 'PB2' || B.NetName == 'PB2'")
+    (constraint clearance (min 0.15mm)))
+
