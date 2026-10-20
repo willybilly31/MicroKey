@@ -1,0 +1,45 @@
+** Drc report for finished.kicad_pcb **
+** Created on 2026-10-20T09:06:09 **
+** Report includes: Errors, Warnings **
+
+** Found 5 DRC violations **
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error
+    @(106.4000 mm, 118.0000 mm): Footprint Y1
+    @(103.7000 mm, 115.6000 mm): Footprint C2
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(100.5000 mm, 100.0000 mm): Zone [GND] on F.Cu, priority 0
+    @(120.8000 mm, 105.6800 mm): Pad A1 [GND] of J1 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(100.5000 mm, 100.0000 mm): Zone [GND] on F.Cu, priority 0
+    @(120.8000 mm, 105.6800 mm): Pad B12 [GND] of J1 on F.Cu
+[lib_footprint_issues]: The current configuration does not include the footprint library '2x3 Pads'
+    Local override; warning
+    @(105.0000 mm, 106.0000 mm): Footprint J2
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(121.8000 mm, 108.9000 mm): Reference field of C3
+    @(121.4000 mm, 108.8000 mm): Reference field of R1
+
+** Found 2 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(115.2000 mm, 106.3275 mm): Track [VCC] on F.Cu, length 0.6475 mm
+    @(120.0000 mm, 105.6800 mm): Pad B9 [VCC] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(119.2000 mm, 111.2000 mm): Track [VCC] on F.Cu, length 1.4142 mm
+    @(120.0000 mm, 105.6800 mm): Pad B9 [VCC] of J1 on F.Cu
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

@@ -1,0 +1,2 @@
+Compared 107 schematic pins with 107 unique PCB pads.
+Mismatches: []
