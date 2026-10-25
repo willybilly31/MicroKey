@@ -91,9 +91,9 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
       <td>GCT_USB4105-GF-A</td>
       <td>1</td>
       <td>USB_C_Receptacle_USB2.0_16P</td>
-      <td>C3020560</td>
-      <td>1.31$</td>
-      <td><a href="https://www.lcsc.com/product-detail/C3020560.html">C3020560</a></td>
+      <td>C5184243</td>
+      <td></td>
+      <td><a href="https://www.lcsc.com/product-detail/C5184243.html">C5184243</a></td>
     </tr>
     <tr>
       <td>J2</td>
