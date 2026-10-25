@@ -1,0 +1,26 @@
+Keyboard_Lucide_10mm_Silkscreen.kicad_mod
+
+Adapted from the Lucide "keyboard" icon:
+https://lucide.dev/icons/keyboard
+https://github.com/lucide-icons/lucide/blob/main/icons/keyboard.svg
+Upstream icon blob: 254582887503f763af4e284f05bc858464ff664d
+
+Adaptation: scaled to a nominal 10 x 8 mm footprint, converted to native KiCad
+front-silkscreen primitives, and line weights/key dots adjusted for PCB printing.
+No copper, drill holes or electrical pads are included.
+
+ISC License
+
+Copyright (c) 2026 Lucide Icons and Contributors
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
