@@ -88,7 +88,7 @@ ATmega32U4-AU based micro controller with the sole purpose of emulating keyboard
     </tr>
     <tr>
       <td>J1</td>
-      <td>USB4105_JLC_0p20mm_NPTH_Clearance</td>
+      <td>GCT_USB4105-GF-A</td>
       <td>1</td>
       <td>USB_C_Receptacle_USB2.0_16P</td>
       <td>C3020560</td>
